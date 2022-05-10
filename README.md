@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @claas247
+- 👀 I’m interested into industrial robots, smart home and show lights and audio
+- 🌱 I’m currently learning basic programming in C and Cpp.
+- 💞️ I’m looking to collaborate on beginner friendly projects.
+- 📫 You can reach me here. I will check daily.
